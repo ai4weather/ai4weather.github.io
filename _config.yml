@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   TODO Edit description in _config.yml.
 github_username: ai4weather
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
